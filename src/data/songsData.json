@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Bad Liar",
+    "artist": "Imagine Dragons",
+    "song": "songs/mp3/Bad-Liar.mp3",
+    "length": "04:44",
+    "img": "songs/images/badLiar.JPG",
+    "bgColor": "linear-gradient(to bottom, #0f2027, #203a43, #2c5364)",
+    "lyrics": "Oh hush my dear its been a difficult year/And terrors don't prey on/Innocent victims/Trust me, darling, trust me darling/It's been a loveless year/I'm a man of three fears/Integrity, faith and/Crocodile tears/Trust me, darling, trust me, darling/  /So look me in the eyes/Tell me what you see/Perfect paradise/Tearing at the seams/I wish I could escape/I don't wanna fake it/Wish I could erase it/Make your heart believe/But I'm a bad liar, bad liar/Now you know/Now you know/That I'm a bad liar, bad liar/Now you know, you're free to go (go)/Did all my dreams never mean one thing?/Does happiness lie in a diamond ring?/Oh, I've been askin' for/Oh, I've been askin' for problems, problems, problems/I wage my war, on the world inside/I take my gun to the enemy's side/Oh…"
+  },
+  {
+    "name": "Dance Monkey",
+    "artist": "Tones and I",
+    "song": "songs/mp3/Dance-Monkey.mp3",
+    "length": "03:31",
+    "img": "songs/images/danceMonkey.JPG",
+    "bgColor": "linear-gradient(to bottom, #141e30, #243b55)",
+    "lyrics": "They say oh my god I see the way you shine/Take your hand, my dear, and place them both in mine/You know you stopped me dead when I was passing by/And now I beg to see you dance just one more time/Ooh I see you, see you, see you every time/And oh my I, I like your style/You, you make me, make me, make me wanna cry/And now I beg to see you dance just one more time/So I say/Dance for me, dance for me, dance for me, oh, oh, oh/I've never seen anybody do the things you do before/They say move for me, move for me, move for me, ay, ay, ay/And when you're done I'll make you do it all again/I said oh my god I see you walking by/Take my hands, my dear, and look me in my eyes/Just like a monkey I've been dancing my whole life/And you just beg to see me dance just…"
+  },
+  {
+    "name": "Saturday Nights",
+    "artist": "Khalid",
+    "song": "songs/mp3/Saturday-Nights.mp3",
+    "length": "03:29",
+    "img": "songs/images/saturdayNights.JPG",
+    "bgColor": "linear-gradient(to bottom, #3a7bd5, #3a6073)",
+    "lyrics": "Saturday nights, blueberry cigarillos/Swishers make my throat hurt/Rolling OCB's on the side for me/Light 'em up and let 'em both burn/Family feuds, saying Mom's confused/I'm for sure she doesn't wanna learn/My daddy's gone, say he's never home/And wishin' only makes it worse/I guess there's certain dreams that you gotta keep/'Cause they only know what you let 'em see/And all the things that I know/That your parents don't/They don't care like I do/Nowhere like I do/And all the things that I know/That your parents don't/They don't care like I do/Nowhere like I do/Nowhere like I do/Nowhere like I do/Saturday nights/Light gray Silverado/Drive it 'cause you have to/Stay up working late at a job you hate/And fix your makeup in a dirty bathroom/No more love, in and out…"
+  },
+  {
+    "name": "Easier",
+    "artist": "5 Seconds Of Summer",
+    "song": "songs/mp3/Easier.mp3",
+    "length": "02:42",
+    "img": "songs/images/easier.JPG",
+    "bgColor": "linear-gradient(to bottom, #000000, #434343)",
+    "lyrics": "Is it easier to stay? Is it easier to go?/I don't wanna know, oh/But I know that I'm never, ever gonna change/And you know you don't want it any other way/Why do we always gotta run away?/And we wind up in the same place/It's like we're looking for the same thing/Same thing, yeah/Yeah, do we really gotta do this now?/Right here with all your friends around/In the morning, we can work it out/Work it out/I love you so much that I hate you/Right now, it's so hard to blame you/Cause you're so damn beautiful/You're so damn beautiful/Is it easier to stay? Is it easier to go?/I don't wanna know, oh/But I know that I'm never, ever gonna change/And you know that you're always gonna stay the same/Is it easier to stay? Is it easier to go?/I don't wanna know, oh/But I know…"
+  },
+  {
+    "name": "I'm So Tired",
+    "artist": "Lauv Troye Sivan",
+    "song": "songs/mp3/im-so-tired.mp3",
+    "length": "02:42",
+    "img": "songs/images/ImSoTired.JPG",
+    "bgColor": "linear-gradient(to bottom, #485563, #29323c)",
+    "lyrics": "I'm so tired of love songs, tired of love songs/Tired of love songs, tired of love/Just wanna go home, wanna go home/Wanna go home, whoa/So tired of love songs, tired of love songs/Tired of love songs, tired of love/Just wanna go home, wanna go home/Wanna go home, whoa/Party/Trying my best to meet somebody/But everybody around me's fallin' in love to our song/I, I, oh I, yeah/Hate it/Taking the shot 'cause I can't take it/But I don't think they make anything that strong/So I hold on/I, I, oh I, yeah/I'm so tired of love songs, tired of love songs/Tired of love songs, tired of love/Just wanna go home, wanna go home/Wanna go home, whoa/So tired of love songs, tired of love songs/Tired of love songs, tired of love/Just wanna go home, wanna go home/Wanna go home, whoa…"
+  },
+  {
+    "name": "Sunflower",
+    "artist": "Post Malone, Swae Lee",
+    "song": "songs/mp3/Sunflower.mp3",
+    "length": "02:38",
+    "img": "songs/images/sunflower.JPG",
+    "bgColor": "linear-gradient(to bottom, #8e0e00, #1f1c18,#1f1c18)",
+    "lyrics": "Ayy, ayy, ayy, ayy (ooh)/Ooh, ooh, ooh, ohh (ooh)/Ayy, ayy/Ooh, ooh, ooh, ooh/Needless to say, I keep her in check/She was all bad-bad, nevertheless (yeah)/Callin' it quits now, baby, I'm a wreck (wreck)/Crash at my place, baby, you're a wreck (wreck)/Needless to say, I'm keeping her in check/She was all bad-bad, nevertheless/Callin' it quits now, baby, I'm a wreck/Crash at my place, baby, you're a wreck/Thinkin' in a bad way, losin' your grip/Screamin' at my face, baby, don't trip/Someone took a big L, don't know how that felt/Lookin' at you sideways, party on tilt/Ooh-ooh, some things you just can't refuse/She wanna ride me like a cruise/And I'm not tryna lose/Then you're left in the dust/Unless I stuck by ya/You're a sunflower/I think your love would be too…"
+  }
+]
